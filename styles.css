@@ -25,9 +25,9 @@ body {
   border-bottom-style: solid;
   border-width: 2px;
 }
-body .Music {
+body .music {
   background-color: blue;
 }
-body .Videos {
+body .videos {
   background-color: brown;
 }
