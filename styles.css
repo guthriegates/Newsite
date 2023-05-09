@@ -58,7 +58,9 @@ div #footer {
   margin: 300px 300px 100px 2000px;
 }
 
-#star {
-
-  margin: 600px 200px 300px 1500px;
+div #star {
+  width: 100px;
+  height: 100px;
+  margin-top: 0px;
+  float: right;
 }
