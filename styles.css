@@ -47,10 +47,9 @@ div #footer {
 }
 
 div #title {
-  position: static;
-  top: 0px;
-  right: 200px;
-  bottom:1000px;
+  position: absolute; top: 0; right: 0; border: 0;
+
+  
   
 }
 
