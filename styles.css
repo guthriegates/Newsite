@@ -37,3 +37,9 @@ body .videos {
   margin-top:1000px;
 
 }
+
+div #footer {
+  background-color: bisque;
+  padding: 10px;
+  margin-bottom: 10px;
+}
