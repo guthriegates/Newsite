@@ -46,10 +46,19 @@ div #footer {
   margin-bottom: 10px;
 }
 
-div #title {
+#title {
   position:absolute;
  
   margin: 0px 200px 5000px 300px;
   
 }
 
+#flower {
+
+  margin: 300px 300px 100px 2000px;
+}
+
+#star {
+
+  margin: 600px 200px 300px 1500px;
+}
