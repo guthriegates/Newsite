@@ -47,9 +47,10 @@ div #footer {
 }
 
 div #title {
-  position: absolute;
-  top: 10px;
+  position: static;
+  top: 0px;
   right: 200px;
+  bottom:1000px;
   
 }
 
