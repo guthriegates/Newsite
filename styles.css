@@ -45,3 +45,8 @@ div #footer {
   padding: 10px;
   margin-bottom: 10px;
 }
+
+div #title {
+  position: relative;
+  left: 200px;
+}
